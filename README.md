@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rdwomoh
 - 👀 👀 I'm interested in data analytics, machine learning, and web development.
-- 🌱 I currently graduated from a Data Analytics And Visualization program from The School Of Continuing Studies(UOFT).
+- 🌱 I recently graduated from a Data Analytics And Visualization program with The School Of Continuing Studies(UOFT).
 - 💞️ I'm looking to collaborate on data-driven projects that leverage my skills in data analytics and visualization. As a recent graduate from a data analytics and visualization bootcamp, I have gained hands-on experience in various data tools and techniques, including Python, SQL, Tableau, and data cleaning methods.
 
 I'm enthusiastic about working on projects that involve data exploration, data cleaning, and generating insightful visualizations to extract meaningful insights. Whether it's analyzing business trends, performing market research, or tackling real-world challenges with data, I'm eager to contribute and learn from collaborative projects.
