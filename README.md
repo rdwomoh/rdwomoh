@@ -5,7 +5,7 @@
 
 I'm enthusiastic about working on projects that involve data exploration, data cleaning, and generating insightful visualizations to extract meaningful insights. Whether it's analyzing business trends, performing market research, or tackling real-world challenges with data, I'm eager to contribute and learn from collaborative projects.
 
-If you have any data-related projects where I could be of assistance, please don't hesitate to reach out. I'm open to opportunities for both personal growth and making a positive impact through data-driven solutions. You can contact me through my GitHub profile or via email at [robertdwomoh66@gmail.com].
+If you have any data-related projects where I could be of assistance, please don't hesitate to reach out. I'm open to opportunities for both personal growth and making a positive impact through data-driven solutions. You can contact me through my GitHub profile or via email at [rdwomoh.tech@gmail.com].
 
 Looking forward to connecting with fellow data enthusiasts and building something great together!
 
