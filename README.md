@@ -12,7 +12,7 @@ Looking forward to connecting with fellow data enthusiasts and building somethin
 [Robert Osei Dwomoh]
 
 - 📫 How to reach me
-- Email: [robertdwomoh66@gmail.com]
+- Email: [rdwomoh.tech@gmail.com]
 LinkedIn: [https://www.linkedin.com/in/robert-osei-dwomoh-07b8bb204/]
 GitHub: [https://github.com/rdwomoh]
 
