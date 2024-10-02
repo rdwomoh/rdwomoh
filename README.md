@@ -9,7 +9,7 @@ If you have any data-related projects where I could be of assistance, please don
 
 Looking forward to connecting with fellow data enthusiasts and building something great together!
 
-[Robert Osei Dwomoh]
+[Robert Dwomoh]
 
 - 📫 How to reach me
 - Email: [rdwomoh.tech@gmail.com]
